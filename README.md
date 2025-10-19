@@ -18,7 +18,6 @@ Matthias Luh: *"Robust electricity grids through intelligent,  highly efficient 
 - **optimize_models_manual_stepping_list.py:** List of variables to test for the "list-wise stepping" in optimize_models_manual.py.
 - **config_labels.py:** Definition of data column labels. Not all columns of the published records are defined here, you can add them if you need them.
 - **config_logging.py:** Used to log (debug) information, warnings, and errors to the console and a log text file.
-- **requirements.txt**: Required libraries (and version with which they were successfully tested).
 
 ## Required input data
 CFG and LOG_AGE .csv files of the dataset mentioned above.
